@@ -75,7 +75,7 @@ oyna.mainloop()
 
 
 
-
+#THIS CODE HAS CREATED AT 03.10.2024 FROM @BEKFURR
 
 
 
